@@ -1,6 +1,6 @@
 
-<!---
-- 👋 Hi, I’m @ChaudharyShiva18
+<!--- 
+- 👋 Hi, I’m @ChaudharyShiva18 https://chaudharyshiva18.github.io/mysite/
 - 👀 I’m interested in Python, css, html, AI, ML, JS, Nodejs, ReactJs
 - 😎You can contact me directly if you need help in any of the repo
 - 🌱 I’m currently learning AI,ML
