@@ -11,7 +11,7 @@ ChaudharyShiva18/ChaudharyShiva18 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-### Hi there 👋, I am Shiva 😁 https://chaudharyshiva18.github.io/mysite/
+### Hi there 👋, I am [Shiva](https://chaudharyshiva18.github.io/mysite/) 😁 
 - 👀 I’m interested in Python, css, html, AI, ML, JS, Nodejs, ReactJs
 - 😎You can contact me directly if you need help in any of the repo
 - 🌱 I’m currently learning AI,ML
